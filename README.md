@@ -1,8 +1,4 @@
-Here's a simple and effective README template for your GitHub repository based on the provided code:
-
----
-
-# Cafe Management System
+   # Cafe Management System
 
 Welcome to the **Cafe Management System**! This Python script allows you to simulate a simple cafe order-taking process, where users can choose items from a menu and get a total bill based on their selections.
 
